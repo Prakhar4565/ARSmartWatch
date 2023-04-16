@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 187ae9b48d357394b91d98ae71ffa77b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bf13646d292568438f695dd8a6e6270, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1a9da9c40c2b3f7449ad07637ad4b0e8, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 867c76395836d53419e7fb58ea286da8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0c4d19ddd635db14f9e37a25d29dcdfd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 855c70c44465c9942baa7332568eec20, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 052e58b2ec052f645b0a0dc4a3398569, type: 2}
